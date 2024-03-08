@@ -1,0 +1,18 @@
+{
+    "name": "coffee_masters",
+    "short_name": "coffee_masters",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
